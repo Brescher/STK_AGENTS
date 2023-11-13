@@ -1,0 +1,17 @@
+Name;Mean;Lower 90% CI; Upper 90% CI; Lower 95% CI; Upper 95% CI;
+Customers arrived;156,3027;156,20005;156,40535;156,18039;156,42501;
+Customers departed;156,30265;156,19999;156,40531;156,18034;156,42496;
+Customers in system;16,16236392417736;16,15168;16,17305;16,14963;16,1751;
+Time in system;49,63433343211816;49,63022;49,63845;49,62943;49,63923;
+Customers in system at the end;5E-05;-1E-05;0,00011;-2E-05;0,00012;
+Customers in check in queue;0;0;0;0;0;
+Time in check in queue;0;0;0;0;0;
+Customers in payment queue;0;0;0;0;0;
+Time in payment in queue;0;0;0;0;0;
+Customers in parking lot;0;0;0;0;0;
+Time in parking lot;0;0;0;0;0;
+Free clerks;46,98069164873921;46,97867;46,98271;46,97829;46,9831;
+Free mechanics group 1;36,85694442708309;36,84823;36,86566;36,84656;36,86733;
+Free mechanics group 2;10;10;10;10;10;
+Labour costs;150000
+Number of replications;40000

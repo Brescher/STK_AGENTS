@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "F9xIOMqweIEoZ4F+CSUtFMKxUt4WN9QEu2OBz26dQB2GRGF/Sl5P05Kx3ZX2+Pkv+QInlhwaubPUK5aCvxitaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\STK_AGENTS\\STK_AGENTS\\STK_AGENTS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\scottplot\\4.1.63\\scottplot.4.1.63.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\scottplot.winforms\\4.1.63\\scottplot.winforms.4.1.63.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.drawing.common\\4.7.2\\system.drawing.common.4.7.2.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
